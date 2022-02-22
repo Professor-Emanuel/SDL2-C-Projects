@@ -1,5 +1,6 @@
 //***
 //don't forget to copy-paste SDL2.dll in the same folder as main.cpp
+//the project simply creates a white window, but we use OOP in comparison with FirstSDLWindow project
 /*
 * As long as the game is running: 
 1. handle any user input

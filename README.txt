@@ -17,9 +17,11 @@ https://www.dropbox.com/s/9jwm4mrxji7fvl2/Dev.zip?dl=0&file_subpath=%2FDev
 How to link:
 https://www.youtube.com/watch?v=YrWQsuDT3NE&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx&index=4&ab_channel=Let%27sMakeGames
 
-3. 2D_GameEngine - Frame Rate - - adds on the previous project, computing frame rates which will make the game act the same on any device
+3. 2D_GameEngine - Frame Rate - adds on the previous project, computing frame rates which will make the game act the same on any device
 
+4. 2D_GameEngine - Texture Loader - adds on the previous project, we created a class function to take care of the texture rendering
 
+5. 2D_GameEngine - GameObject - adds on the previous project,
 
 
 

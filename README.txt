@@ -24,7 +24,9 @@ https://www.youtube.com/watch?v=YrWQsuDT3NE&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wS
 5. 2D_GameEngine - GameObject - adds on the previous project, when we create a player, we don't want code all over in the main, so we can create a new object to take care of player movement, and update & render parts
 NOT WORKING yet, no code errors, but player is not rendered anymore after encapsulation everything in the GameObject class.
 
-6. 2D_GameEngine - 
+6. 2D_GameEngine - Tilemaps - adding a background on the previous version.
+
+7. 2D_GameEngine -  
 
 
 

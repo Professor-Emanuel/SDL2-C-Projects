@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=YrWQsuDT3NE&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wS
 
 6. 2D_GameEngine - Tilemaps - adding a background on the previous version; added a matrix of 0's, 1's and 2's (hard coded in the Map.cpp file for now, but later on it can be added using an external file) which will represent a tile of water, grass or dirt.
 
-7. 2D_GameEngine - Entity - 
+7. 2D_GameEngine - ECS - adds on top of the previous version, the Entity Component System.
 
 
 
